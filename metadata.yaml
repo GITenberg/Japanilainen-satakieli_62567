@@ -1,5 +1,5 @@
 _repo: Japanilainen-satakieli_62567
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: A Japanese nightingale. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31668'
     url: http://www.gutenberg.org/2009/agents/31668
     wikipedia: https://fi.wikipedia.org/wiki/Eero_Alpi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Watanna, Onoto
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49587
     wikipedia: https://en.wikipedia.org/wiki/Winnifred_Eaton_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62567#Japanilainen-satakieli
 gutenberg_issued: '2020-07-06'
 gutenberg_type: Text
 identifiers:
